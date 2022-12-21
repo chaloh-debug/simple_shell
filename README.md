@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="http://www.holbertonschool.com/holberton-logo.png" alt="Holberton School logo">
-</p>
-
 # Simple Shell project 0x16.c - Sodash -
 
 This is a simple UNIX command interpreter based on bash and Sh.
